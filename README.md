@@ -1,7 +1,7 @@
 
 # SmartPDF ChatBot
 
-### Built by [Tumhara Naam] | 2025
+### Built by [shubh soni] | 2025
 
 Ek simple lekin powerful chatbot jo PDF files se sawalon ke jawab de sakta hai. Isme maine **LangChain**, **FAISS**, **OpenAI**, aur **Streamlit** ka use kiya hai. Iska main idea ye tha ki agar koi apna resume, notes, ya koi document upload kare, to wo usi file se related sawal poochh sake — bina pura document padhe.
 
